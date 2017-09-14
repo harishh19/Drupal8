@@ -1,0 +1,7 @@
+baxter.my_page:
+  path: '/baxter/helloworld'
+  defaults:
+    _controller: '\Drupal\baxter\Controller\BaxterController::helloworld'
+    _title: 'Baxter D8'
+  requirements: 
+    _permission: 'access content'

@@ -1,0 +1,5 @@
+name: Baxter module D8
+type: module
+description: 'Provides example code for baxter module.'
+package: Custom
+core: 8.x
